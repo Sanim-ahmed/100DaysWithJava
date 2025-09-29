@@ -7,7 +7,7 @@ public class Day7Countdown {
         System.out.print("Countdown starts from? :");
         int count = sc.nextInt();
 
-        for (int i = 10;i >0;i--){
+        for (int count = 10;i >0;i--){
             System.out.println(i);
             Thread.sleep(1000);
         }
