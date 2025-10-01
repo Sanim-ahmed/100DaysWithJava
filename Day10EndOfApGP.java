@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day10EndOfApGP {
+public class Day_10EndOfApGP {
             public static void main(String[] args) {
                 Scanner sc = new Scanner(System.in);
                 int start = sc.nextInt();   // first term
